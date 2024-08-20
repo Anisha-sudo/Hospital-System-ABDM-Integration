@@ -40,7 +40,7 @@
 		<dependency>
 			<groupId>ca.uhn.hapi.fhir</groupId>
 			<artifactId>hapi-fhir-validation</artifactId>
-			<version>5.0.0</version>
+			<version>7.4.0</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/ca.uhn.hapi.fhir/org.hl7.fhir.validation -->
 		<!--<dependency>
